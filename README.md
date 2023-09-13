@@ -1,9 +1,7 @@
-<div align="center">
-<!-- <img width="500px" height="350px" src="" alt="cover" /> -->
-</div>
-<h1> Hello 
-  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> 
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Amine's+GitHub!👋)](https://git.io/typing-svg)
+
 <p align='center'></p>
 <div size='20px'> Hi! My name is Amine Snoussi. Thank You for taking the time to view my GitHub Profile. </div>
 <h2> About Me </h2>
@@ -122,4 +120,11 @@
 </a> 
 <a href = 'https://github.com/Amine-Snoussi'> 
   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a> 
+</a>
+<a href = 'https://instagram.com/aminesnoussii'> 
+  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>
+</a>
+
+<!-- [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/Amine-Snoussi)
+
+[![AMINE's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amine-Snoussi&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats) -->
