@@ -6,13 +6,15 @@
 <div size='20px'> Hi! My name is Amine Snoussi. Thank You for taking the time to view my GitHub Profile. </div>
 <h2> About Me </h2>
 
-- 🔭 I’m currently working at DefensyLab as Full-stack software engineering intern.
+-🚀 Embarking on a coding odyssey through the digital realms, I've honed my skills as a Full-stack Software Engineer. My journey involves tending to the knowledge garden of Spring Boot, Django, React, and Angular, while navigating the expansive landscapes of Automated Machine Learning on cloud platforms like AWS, Google Cloud, and Microsoft Azure.
 
-- 🌱 I’m currently growing my knowledge about Spring Boot, Django ,React, Angular and Automated Machine Learning cloud plateforms such as AWS, Google Cloud & Microsoft Azure. 
+-🌱 Currently charting unexplored territories and self-learning the intricacies of Jenkins, SonarQube, Nexus, JUnit, Mockito, JaCoCo, Docker Compose, Grafana, and Prometheus. Eager to embrace new opportunities, I am open to exciting ventures that align with my evolving expertise. Let's build something extraordinary together! 🌐💻
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+-👯 On the lookout for constellations of collaboration in Projects and Tech Articles.
 
-- 💬 Talk to me about Java Programming, JavaScript, TypeScript, Spring Boot, React, Angular, Deep Learning, AutoML, Freelancing Opportunites, Open Source Projects
+-💬 Engage me in discussions about Java Programming, JavaScript, TypeScript, Spring Boot, React, Angular, Deep Learning, AutoML, Freelancing Opportunities, and the thrilling universe of Open Source Projects.
+
+-🚀 Actively seeking an end-of-study internship, fueled by a cosmic curiosity and a commitment to embrace the unknown. Ready to absorb knowledge like a celestial sponge, so if you have a learning orbit, count me in!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.docker.com/" target="_blank"> 
@@ -111,7 +113,36 @@
 <a href="https://kafka.apache.org/" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" alt="Apache Kafka" width="32px">
 </a>
-
+<a href="https://jenkins.io" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="32px"> 
+</a>
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32px"> 
+</a>
+<a href="https://github.com" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="32px"> 
+</a>
+<a href="https://www.sonarqube.org" target="_blank">
+  <img src="https://artifacthub.io/image/949a653d-9573-4e6f-8a20-443126e55656@3x" alt="SonarQube" width="32px"> 
+</a>
+<a href="https://www.sonatype.com/nexus/repository-oss" target="_blank">
+  <img src="https://help.sonatype.com/docs/files/331022/157680817/1/1682341686984/sonatype-repository-logo-stacked.png" alt="Nexus" width="32px"> 
+</a>
+<a href="https://junit.org" target="_blank">
+  <img src="https://545767148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MdBdUMSCcMYTyNwZf80%2Fuploads%2Fgit-blob-70f7ee1ccc2222bc8327d7433a7c8eb8052fd14f%2Fjunit.png?alt=media" alt="JUnit" width="32px"> 
+</a>
+<a href="https://site.mockito.org" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*7w64vyBXihVBrjNBBOIF9g.png" alt="Mockito" width="32px"> 
+</a>
+<a href="https://www.eclemma.org/jacoco" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:770/1*ZuVOxVSi5ZguB-hFIoUNyg.png" alt="JaCoCo" width="32px"> 
+</a>
+<a href="https://grafana.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="32px"> 
+</a>
+<a href="https://prometheus.io" target="_blank">
+  <img src="https://blog.inkubate.io/content/images/2017/12/prometheus-logo-3.png" alt="Prometheus" width="32px"> 
+</a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
