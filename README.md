@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Amine's+GitHub!👋)](https://git.io/typing-svg)
 
-<h3 align="center">Software Architect Engineering | Full-stack Developer | Actively Seeking Dynamic End-of-Study Internship Opportunities | Passionate about Innovative Solutions and Collaborative Development </h3>
+<h3 align="center">Software Architect Engineer | Full-stack Developer | Actively Seeking Dynamic Job Opportunities As A Junior Full-Stack Software Engineer | Passionate about Innovative Solutions and Collaborative Development </h3>
 
 <p align='center'></p>
 <div size='20px'> Hi! My name is Amine Snoussi. Thank You for taking the time to view my GitHub Profile. </div>
 <h2> About Me </h2>
-
--🔭 I’m currently looking for job opportunities as a Junior Software Engineer.
 
 -🎓 I have recently graduated and am now officially a Software Engineer.
 
