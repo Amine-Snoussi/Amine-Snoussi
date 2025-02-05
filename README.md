@@ -8,6 +8,10 @@
 <div size='20px'> Hi! My name is Amine Snoussi. Thank You for taking the time to view my GitHub Profile. </div>
 <h2> About Me </h2>
 
+-🔭 I’m currently looking for job opportunities as a Junior Software Engineer.
+
+-🎓 I have recently graduated and am now officially a Software Engineer.
+
 -🚀 Embarking on a coding odyssey through the digital realms, I've honed my skills as a Full-stack Software Engineer. My journey involves tending to the knowledge garden of Spring Boot, Django, React, and Angular, while navigating the expansive landscapes of Automated Machine Learning on cloud platforms like AWS, Google Cloud, and Microsoft Azure.
 
 -🌱 Currently charting unexplored territories and self-learning the intricacies of Jenkins, SonarQube, Nexus, JUnit, Mockito, JaCoCo, Docker Compose, Grafana, and Prometheus. Eager to embrace new opportunities, I am open to exciting ventures that align with my evolving expertise. Let's build something extraordinary together! 🌐💻
@@ -15,8 +19,6 @@
 -👯 On the lookout for constellations of collaboration in Projects and Tech Articles.
 
 -💬 Engage me in discussions about Java Programming, JavaScript, TypeScript, Spring Boot, React, Angular, Deep Learning, AutoML, Freelancing Opportunities, and the thrilling universe of Open Source Projects.
-
--🚀 Actively seeking an end-of-study internship, fueled by a cosmic curiosity and a commitment to embrace the unknown. Ready to absorb knowledge like a celestial sponge, so if you have a learning orbit, count me in!
 
 <!--
 ---
